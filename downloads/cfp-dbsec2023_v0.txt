@@ -16,13 +16,13 @@ DBSec is an annual international conference covering research in data and applic
 - data protection
 - database security
 - digital rights management
-- distributed and decentralized security
+- distributed and decentralised security
 - identity management
 - intrusion detection
 - knowledge discovery and privacy
 - methodologies for data and application security
 - network security
-- organizational and social aspects of security
+- organisational and social aspects of security
 - privacy
 - secure cloud computing
 - secure distributed systems
